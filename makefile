@@ -10,6 +10,6 @@ force :
 	make --always-make
 
 clean :
-	rm -f main
+	rm -f largest_file
 	rm -rf *.o
 	
