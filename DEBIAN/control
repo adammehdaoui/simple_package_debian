@@ -1,0 +1,9 @@
+Package: largestfile
+Version: 1.0-1
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: adammehdaoui <adam.mehdaouijorge@gmail.com>
+Description: This is a simple package of test. 
+  The source code can finds the top 10 of the largest files in a directory.
+
